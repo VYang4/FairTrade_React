@@ -1,5 +1,5 @@
-
-
+# Fair Trade Goods Store website:
+Partner with artisans from developing countries to sell fair trade products like textiles, jewelry, and home decor. This model helps to ensure fair wages and working conditions for the artisans.
 
 # Video demo of the Fair Trade Website:
 
